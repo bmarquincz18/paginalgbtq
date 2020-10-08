@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+  />
+    <title>Document</title>
+</head>
+<body>
+    <div class="container-fluid"></div>
+    
+    <h1 class="center">LGBTIQ ZONE</h1>
+   
+    <div class="row">
+      <div class="col-md-3 amarillo"><main>
+        <header>
+        
+          <figure>
+      
+            <details>
+              <summary><h2>significado</h2></summary>
+            <figcaption>
+              <p>LGBTQ. La sigla LGBTQ significa lesbiana, gay, bisexual, transgénero, y queer (en proceso de averiguarlo). Aprende más sobre lo que significan estas categorías y de qué se tratan la orientación sexual y la identidad de género.</p>
+              </figcaption>
+            </details>
+            
+            </figure>
+          </main>
+  </div>
+  <div class="col-md-3 amarillo"><main>
+    <header>
+    
+      <figure>
+  
+        <details>
+          <summary><h3>historias</h3>
+
+          </summary>
+        <figcaption>
+          <p>LGBTQ. La sigla LGBTQ significa lesbiana, gay, bisexual, transgénero, y queer (en proceso de averiguarlo). Aprende más sobre lo que significan estas categorías y de qué se tratan la orientación sexual y la identidad de género.</p>
+          </figcaption>
+        </details>
+        
+        </figure>
+      </main>
+</div>
+<div class="col-md-3 amarillo"><main>
+  <header>
+  
+    <figure>
+
+      <details>
+        <summary><h2>cultura lgbt</h3></summary>
+      <figcaption>
+        <p>LGBTQ. La sigla LGBTQ significa lesbiana, gay, bisexual, transgénero, y queer (en proceso de averiguarlo). Aprende más sobre lo que significan estas categorías y de qué se tratan la orientación sexual y la identidad de género.</p>
+        </figcaption>
+      </details>
+      
+      </figure>
+    </main>
+  </div>
+  <div class="col-md-3 amarillo"><main>
+    <header>
+    
+      <figure>
+  
+        <details>
+          <summary><h3>novedades</h3>
+
+          </summary>
+        <figcaption>
+          <p>LGBTQ. La sigla LGBTQ significa lesbiana, gay, bisexual, transgénero, y queer (en proceso de averiguarlo). Aprende más sobre lo que significan estas categorías y de qué se tratan la orientación sexual y la identidad de género.</p>
+          </figcaption>
+        </details>
+        
+        </figure>
+      </main>
+</div>
+</div>
+</div>
+<div class="row">
+ 
+  <div class="col-md-12 amarillo">
+    <img src="images1/colores.jpg"height="270px">
+
+  <img src="images1/colores2.jpg"height="300px">
+  <img src="images1/colores.jpg"height="260px">
+
+  
+    
+ 
+  </div>
+</div>
+</div>
+<div class="row">
+  <div class="col-md-6 azul">
+  <form action="../../form-result.php" method="post" target="_blank">
+
+    <p>
+  
+      Búsqueda sobre la comunidad: <input type="search" name="busquelgbt" placeholder="genero, grupos, parejas...">
+  
+      <input type="submit" value="Buscar">
+  
+    </p>
+  
+  </form>
+      </div>
+      <div class="col-md-6 azul">
+<h2>REDES SOCIALES</h2>
+        <img src="images/facebook (1).png " height="55px">
+        <img src="images/instagram.png " height="55px">
+        <img src="images/whatsapp.png"height="55px">
+        <form action="../../form-result.php" method="post" target="_blank">
+        </div>
+ 
+    <!--abriendo script-->
+    <script src="js/bootstrap.min.js.map"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script></script>
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>
